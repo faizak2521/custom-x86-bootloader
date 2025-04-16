@@ -1,4 +1,4 @@
-# Faiza's Custom Bootloader 💻
+# My Custom Bootloader 💻
 
 This is a handcrafted x86 BIOS bootloader written in NASM. It displays a welcome message, ASCII art, and allows live keyboard input.
 
